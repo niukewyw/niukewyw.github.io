@@ -33,5 +33,3 @@ I have been admitted via recommendation exemption (推免) to the **M.Eng progra
 ### Publications
 I have co-authored **4 papers** (including first-author and co-author).  
 Full list and PDFs → **[Publications](/publications/)** | **[ORCID](https://orcid.org/0009-0004-3576-5764)**
-
-[Download CV (PDF)](/files/cv.pdf)   <!-- 如果您已经把CV上传到 /files/cv.pdf 就保留，否则删掉这行 -->
