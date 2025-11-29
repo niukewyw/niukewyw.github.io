@@ -8,6 +8,8 @@ redirect_from:
 
 Hello! My name is Yaowu Wang. I am an undergraduate student majoring in Computer Science and Technology at the College of Computer and Software, Hohai University (Class of 2022), and I will obtain my Bachelor of Engineering degree in 2026. I have been recommended for postgraduate study and will be joining the School of Computer Science and Engineering at Southeast University to pursue a Master's degree in Artificial Intelligence.
 
+I have received several honors, including the First Prize in Jiangsu Province Higher Mathematics Competition, the First Prize in the Jiangsu Division of the National College Students Mathematics Competition, and the First Prize in the Mathematical Contest in Modeling (MCM/ICM, USA).
+
 My current research interests include reinforcement learning, multi-agent reinforcement learning, and their applications. In the future, I aim to explore multi-agent systems based on large language models.
 
 ---
