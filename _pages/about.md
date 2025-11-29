@@ -12,11 +12,9 @@ My current research interests include reinforcement learning, multi-agent reinfo
 
 ---
 
-## Personal Information
+## Educational Background
 
-- **Name:** Yaowu Wang
-- **Undergraduate:** Hohai University, College of Computer and Software (Enrolled in 2022)
-- **Postgraduate (from 2026):** School of Computer Science and Engineering, Southeast University, Artificial Intelligence
-- **Research Interests:** Reinforcement Learning, Multi-Agent Reinforcement Learning, Large Language Model-based Multi-Agent Systems
+- **2022–2026:** Bachelor of Engineering in Computer Science and Technology, College of Computer and Software, Hohai University
+- **2026–Present:** Master’s in Artificial Intelligence (Recommended Admission), School of Computer Science and Engineering, Southeast University
 
 ---
