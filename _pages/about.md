@@ -15,6 +15,6 @@ My current research interests include reinforcement learning, multi-agent reinfo
 ## Educational Background
 
 - **2022–2026:** Bachelor of Engineering in Computer Science and Technology, College of Computer and Software, Hohai University
-- **2026–Present:** Master’s in Artificial Intelligence (Recommended Admission), School of Computer Science and Engineering, Southeast University
+- **2026–2029:** Master’s in Artificial Intelligence (Recommended Admission), School of Computer Science and Engineering, Southeast University
 
 ---
