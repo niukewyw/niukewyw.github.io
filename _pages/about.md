@@ -21,10 +21,10 @@ My current research interests include reinforcement learning, multi-agent reinfo
 
 ## Recent Publications
 
-1. Zaipeng Xie\*, **Yaowu Wang**, Sitong Shen, and Jianan Zhang. "GraphSem: Robust Multi-Agent Reinforcement Learning via Semantic-Graph Communication," in *Proceedings of the 28th European Conference on Artificial Intelligence (ECAI 2025)*, Frontiers in Artificial Intelligence and Applications, vol. 413, pp. 3839–3846, 2025, Bologna, Italy. (CCF-B, Poster presentation) [https://ebooks.iospress.nl/doi/10.3233/FAIA251266]
+1. Zaipeng Xie\*, **Yaowu Wang**, Sitong Shen, and Jianan Zhang. "GraphSem: Robust Multi-Agent Reinforcement Learning via Semantic-Graph Communication," in *Proceedings of the 28th European Conference on Artificial Intelligence (ECAI 2025)*, Frontiers in Artificial Intelligence and Applications, vol. 413, pp. 3839–3846, 2025, Bologna, Italy. (CCF-B, Poster presentation) [[URL]](https://ebooks.iospress.nl/doi/10.3233/FAIA251266)
 
-2. Zaipeng Xie\*, Sitong Shen, **Yaowu Wang**, Chentai Qiao, Bin Tang, and Wenzhan Song. "ROCO: Role-Oriented Communication for Efficient Multi-Agent Reinforcement Learning." *Expert Systems with Applications* 129421 (2025). (SCI JCR Q1) [https://doi.org/10.1016/j.eswa.2025.129421]
+2. Zaipeng Xie\*, Sitong Shen, **Yaowu Wang**, Chentai Qiao, Bin Tang, and Wenzhan Song. "ROCO: Role-Oriented Communication for Efficient Multi-Agent Reinforcement Learning." *Expert Systems with Applications* 129421 (2025). (SCI JCR Q1) [[URL]](https://doi.org/10.1016/j.eswa.2025.129421)
 
-3. Zaipeng Xie\*, Sitong Shen, **Yaowu Wang**, Wenhao Fang, and Wenzhan Song. "AERAS: Adaptive Experience Replay with Attention-Based Sequence Embedding for Improved Multi-Agent Reinforcement Learning." *2025 IEEE International Conference on Robotics and Automation (ICRA)*, May 19-23, 2025. Atlanta, USA. (CCF-B, Oral and poster presentation) [https://ieeexplore.ieee.org/document/11128572/]
+3. Zaipeng Xie\*, Sitong Shen, **Yaowu Wang**, Wenhao Fang, and Wenzhan Song. "AERAS: Adaptive Experience Replay with Attention-Based Sequence Embedding for Improved Multi-Agent Reinforcement Learning." *2025 IEEE International Conference on Robotics and Automation (ICRA)*, May 19-23, 2025. Atlanta, USA. (CCF-B, Oral and poster presentation) [[URL]](https://ieeexplore.ieee.org/document/11128572/)
 
-4. Sitong Shen, **Yaowu Wang**, Zaipeng Xie\*, Bin Tang. “基于角色学习的多智能体强化学习方法 [Multi-agent Reinforcement Learning Method Based on Role Learning].” *计算机工程与应用* [Computer Engineering & Applications], 2023. [https://www.ecice06.com/EN/10.19678/j.issn.1000-3428.0070739]
+4. Sitong Shen, **Yaowu Wang**, Zaipeng Xie\*, Bin Tang. “基于角色学习的多智能体强化学习方法 [Multi-agent Reinforcement Learning Method Based on Role Learning].” *计算机工程与应用* [Computer Engineering & Applications], 2023. [[URL]]](https://www.ecice06.com/EN/10.19678/j.issn.1000-3428.0070739)
